@@ -46,3 +46,5 @@ Click OK to create the new field.
 
 Repeat the above process for each gender field (Female, Male, Transwoman, etc.).
 This will create a set of fields that represent the count of each gender at the corresponding centroids.
+
+To create heatmaps, right click on each layer > properties > symbology > and change the topmost field into graduated 
